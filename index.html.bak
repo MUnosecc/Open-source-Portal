@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>OPEN SOURCE</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <!-- templatemo 336 platinum -->
+    <!-- 
+Platinum Template http://www.templatemo.com/preview/templatemo_336_platinum-->
+    <link href="css/templatemo_style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
+    <script language="javascript" type="text/javascript">
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script> <link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/ddsmoothmenu.js">
+
+/***********************************************
+
+***********************************************/
+
+</script> <script type="text/javascript">
+
+ddsmoothmenu.init({
+	mainmenuid: "templatemo_menu", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+</script> </head>
+  <body>
+    <div id="templatemo_wrapper">
+      <div id="templatemo_header">
+        <div id="site_title">
+          <h1><a href="#">Platinum Template</a></h1>
+        </div>
+        <div id="templatemo_menu" class="ddsmoothmenu">
+          <ul>
+            <li><a href="index.html" class="selected"><span></span>Home</a></li>
+            <li><a href="blog.html"><span></span>Categories</a>
+              <ul>
+                <li><a href="#">Sub menu 1</a></li>
+                <li><a href="#">Sub menu 2</a></li>
+                <li><a href="#">Sub menu 3</a></li>
+              </ul>
+            </li>
+            <li><a href="portfolio.html"><span></span>Communities</a>
+              <ul>
+                <li><a href="#">Sub menu 1</a></li>
+                <li><a href="#">Sub menu 2</a></li>
+                <li><a href="#">Sub menu 3</a></li>
+                <li><a href="#">Sub menu 4</a></li>
+                <li><a href="#">Sub menu 5</a></li>
+              </ul>
+            </li>
+            <li><a href="about.html"><span></span>About</a></li>
+            <li><a href="contact.html"><span></span>Support</a></li>
+          </ul>
+          <br style="clear: left" />
+        </div>
+        <!-- end of menu --> </div>
+      <!-- end of header -->
+      <div id="templatemo_middle">
+        <div id="templatemo_middle_left">
+          <h2><br />
+          </h2>
+          <h2><span style="color: #F08080;"><strong><span style="color: #33ccff;"><span>O</span>PEN</span>
+                <span style="color: #33ccff;">SOURCE</span></strong></span></h2>
+          <p><br />
+          </p>
+          <p class="font_8" style="margin: 0px; padding: 0px; border: 0px none; outline: 0px none; vertical-align: baseline; background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px; font-style: normal; font-variant: normal; font-weight: 400; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &quot;Open Sans&quot;,sans-serif; pointer-events: auto; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span
+
+              style="color: black;"><span class="color_11" style="margin: 0px; padding: 0px; border: 0px none; outline: 0px none; vertical-align: baseline; background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px;">OPEN
+                SOURCE SOFTWARE</span></span></p>
+          <p class="font_8" style="margin: 0px; padding: 0px; border: 0px none; outline: 0px none; vertical-align: baseline; background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px; font-style: normal; font-variant: normal; font-weight: 400; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &quot;Open Sans&quot;,sans-serif; color: #202b33; pointer-events: auto; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><span
+
+              class="wixGuard" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: 0px 0px;">​</span></p>
+          <p class="font_8" style="margin: 0px; padding: 0px; border: 0px none; outline: 0px none; vertical-align: baseline; background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px; font-style: normal; font-variant: normal; font-weight: 400; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &quot;Open Sans&quot;,sans-serif; pointer-events: auto; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;"><span
+
+              style="color: black;"><span class="color_11" style="margin: 0px; padding: 0px; border: 0px none; outline: 0px none; vertical-align: baseline; background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px;">The
+                concept of open source is increasingly being used in other,
+                non-programming areas and generally represents the development
+                and sharing models for intellectual work. For the purposes of
+                this brochure, we use the narrower concept of open source as a
+                software movement.</span></span></p>
+          <a href="#" class="learn_more"></a> </div>
+         
+        <div id="slider-wrapper" style="height: 326px; margin-top: 68px;">
+          <div id="slider" class="nivoSlider"><img src="images/slider/01.jpg" alt="Slider 01" />
+            <img src="images/slider/02.jpg" alt="Slider 02" /> <img src="images/slider/03.jpg"
+
+              alt="Slider 03" /> <img src="images/slider/04.jpg" alt="Slider 04" />
+            <img src="images/slider/05.jpg" alt="Slider 05" /> </div>
+        </div>
+        <script type="text/javascript" src="js/jquery-1.4.3.min.js"></script>
+        <script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+        <script type="text/javascript">
+            $(window).load(function() {
+                $('#slider').nivoSlider();
+            });
+            </script>
+        <div class="cleaner"></div>
+      </div>
+      <!-- end of middle -->
+      <div id="templatemo_main_wrapper">
+        <div id="templatemo_main">
+          <div id="content">
+            <div class="rp_pp">
+              <h2>Mobile Apps</h2>
+              <h2>Email Clients</h2>
+              <h2>Internet Browser</h2>
+              <h2>Games</h2>
+              <p><br />
+              </p>
+              <div style="text-align: left;">                                                                                                                                                                                                                                                                                                             
+                </div></div>
+            <div class="cleaner"></div>
+          </div>
+          <div id="sidebar">
+            <div id="templatemo_search">
+              <form action="#" method="get"> <input value="Search" name="keyword"
+
+                  id="keyword" title="keyword" onfocus="clearText(this)" onblur="clearText(this)"
+
+                  class="txt_field" type="text" /> </form>
+            </div>
+          </div>
+          <!-- end of sidebar -->
+          <div class="cleaner"></div>
+        </div>
+        <!-- end of main -->                                                    
+              <img src="file:///C:%5CUsers%5CAdmin%5CDesktop%5Cnitish%5CWebsite%5Cimages%5CPictures-Data/512px-Firefox_Logo,_2017.svg.png"
+
+          alt="f1" title="f1" style="width: 178px; height: 178px;" /> <img src="file:///C:%5CUsers%5CAdmin%5CDesktop%5Cnitish%5CWebsite%5Ctemplatemo_336_platinum%5Cimages%5CPictures-Data/869px2.png"
+
+          alt="l1" title="l1" style="width: 175px; height: 204px;" />      <img
+
+          src="file:///C:%5CUsers%5CAdmin%5CDesktop%5Cnitish%5CWebsite%5Ctemplatemo_336_platinum%5Cimages%5CPictures-Data/andy-lg.png"
+
+          alt="a1" title="a1" style="width: 169px; height: 211px;" />      <img
+
+          src="file:///C:%5CUsers%5CAdmin%5CDesktop%5Cnitish%5CWebsite%5Ctemplatemo_336_platinum%5Cimages%5CPictures-Data/BlenderDesktopLogo.png"
+
+          alt="b1" title="b1" style="width: 234px; height: 205px;" /> <img src="file:///C:%5CUsers%5CAdmin%5CDesktop%5Cnitish%5CWebsite%5Ctemplatemo_336_platinum%5Cimages%5CPictures-Data/docker-logo.png"
+
+          alt="b1" title="b1" /> <img src="file:///C:%5CUsers%5CAdmin%5CDesktop%5Cnitish%5CWebsite%5Ctemplatemo_336_platinum%5Cimages%5CPictures-Data/vlc-logo.jpg"
+
+          alt="v1" title="v1" style="width: 240px; height: 170px;" /> <img src="file:///C:%5CUsers%5CAdmin%5CDesktop%5Cnitish%5CWebsite%5Ctemplatemo_336_platinum%5Cimages%5CPictures-Data/wilber-big.png"
+
+          alt="g1" title="g1" style="width: 239px; height: 178px;" /> </div>
+      <!-- end of main wrapper --> </div>
+    <!-- end of wrapper --> <br />
+     <br />
+    <div id="templatemo_footer_wrapper">
+      <div id="templatemo_footer"><br />
+         
+        <div class="col_4 col_l">
+          <div class="cleaner h40"></div>
+          <div style="text-align: center;"><dt style="margin-left: 347px; margin-top: -36px; width: 254px;">                                                                                                                                                                     
+              2018<span style="color: #186e8b;"></span><a href="#">   National 
+                Computer  Board</a> </dt>
+          </div>
+        </div>
+        <div class="cleaner"></div>
+      </div>
+    </div>
+  </body>
+</html>
